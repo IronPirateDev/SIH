@@ -1,6 +1,6 @@
 # Ahoy, matey! 🏴‍☠️
 
-![Captain Jack Sparrow]((https://avatars.githubusercontent.com/u/133922818?v=4))
+![Captain Jack Sparrow](https://avatars.githubusercontent.com/u/133922818?v=4)
 
 ## About Me
 
