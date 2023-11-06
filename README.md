@@ -28,8 +28,8 @@ I'm always on the lookout for fellow buccaneers to embark on coding adventures. 
 
 ## Connect with Me
 
-[![Twitter](https://img.shields.io/twitter/follow/IronPirateDev?style=social)](https://twitter.com/IronPirateDev)
-[![Instagram](https://i.imgur.com/1NisZ9a.png)](https://www.instagram.com/Iron_Pirate_Dev/)
+[![Twitter](https://i.imgur.com/BGmGcUn.png)](https://twitter.com/IronPirateDev)
+[![Instagram](https://i.imgur.com/Gu2Ynsz.png)](https://www.instagram.com/Iron_Pirate_Dev/)
 
 ## Ship's Log
 
